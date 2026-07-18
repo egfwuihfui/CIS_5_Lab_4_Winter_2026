@@ -30,3 +30,9 @@ Deliverable:
 - main.cpp
 - 1–2 min video explaining logic + demo run
 - Upload to GitHub (fork this repo first)
+
+**Description**
+Manages 5 hardcoded student scores using pass by value, pass by reference, and pass by pointer across five functions (sum, average, bonus, highest, and pass count).
+
+**Video**
+
